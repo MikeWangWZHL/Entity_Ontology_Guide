@@ -1,7 +1,7 @@
 # Kairos Entity Ontology
 
 ## Navigation
-[ABS](#ABS) | [AML](#AML) | [BAL](#BAL) | [COM](#COM) | [BOD](#BOD) | [FAC](#FAC) | [GPE](#GPE) | [INF](#INF) | [LAW](#LAW) | [LOC](#LOC) | [MHI](#MHI) | [MON](#MON) | [NAT](#NAT) | [ORG](#ORG) | [PER](#PER) | [PLA](#PLA) | [PTH](#PTH) | [RES](#RES) | [SEN](#SEN) | [SID](#SID) | [TTL](#TTL) | [VAL](#VAL) | [VEH](#VEH) | [WEA](#WEA) | 
+[ABS(Abstraction)](#ABS) | [AML(Animal)](#AML) | [BAL(Ballot)](#BAL) | [COM(Commodity)](#COM) | [BOD(Body)](#BOD) | [FAC(Facility)](#FAC) | [GPE(Geopolitical Entity)](#GPE) | [INF(Information)](#INF) | [LAW(Law)](#LAW) | [LOC(Location)](#LOC) | [MHI(Medical Condition/Health Issue)](#MHI) | [MON(Money)](#MON) | [NAT(Nature)](#NAT) | [ORG(Organization)](#ORG) | [PER(Person)](#PER) | [PLA(Plants/Flora)](#PLA) | [PTH(Infectious Microorganism)](#PTH) | [RES(Result)](#RES) | [SEN(Sentence)](#SEN) | [SID(Side)](#SID) | [TTL(Title)](#TTL) | [VAL(Value)](#VAL) | [VEH(Vehicle)](#VEH) | [WEA(Weapon)](#WEA) | 
 
 ## Definitions
 
@@ -17,11 +17,11 @@ Animal, a non-human living organism which feeds on organic matter, typically hav
 A ballot for an election, either the paper ballot used for voting, including both physical paper ballots and also the slate of candidates and ballot questions
 <br>[[^back^]](#Navigation)
 
-### COM
+### BOD
 An identifiable, living part of a human's or animal's body, such as a eye, ear, neck, leg, etc.
 <br>[[^back^]](#Navigation)
 
-### BOD
+### COM
 A tangible product or article of trade for which someone pays or barters, or more generally, an artifact or a thing
 <br>[[^back^]](#Navigation)
 
