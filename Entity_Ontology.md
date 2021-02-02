@@ -1,7 +1,7 @@
 # Kairos Entity Ontology
 
 ## Navigation Bar
-[ABS](#ABS) [AML](#AML) 
+[ABS](#ABS)|[AML](#AML)|[BAL](#BAL)|[COM](#COM)|[BOD](#BOD)|[FAC](#FAC)|[GPE](#GPE)|[INF](#INF)|[LAW](#LAW)|[LOC](#LOC)|[MHI](#MHI)|[MON](#MON)|[NAT](#NAT)|[ORG](#ORG)|[PER](#PER)|[PLA](#PLA)|[PTH](#PTH)|[RES](#RES)|[SEN](#SEN)|[SID](#SID)|[TTL](#TTL)|[VAL](#VAL)|[VEH](#VEH)|[WEA](#WEA)|
 
 ### ABS
 Abstract, non-tangible artifacts such as software (e.g., programs, tool kits, apps, e-mail), measureable intellectual property, contracts, etc. (nb: does not include laws, which are LAW type)
