@@ -5,7 +5,7 @@
 
 ## Definitions
 
-### ABS
+### ABS     [^back](#Navigation Bar)
 Abstract, non-tangible artifacts such as software (e.g., programs, tool kits, apps, e-mail), measureable intellectual property, contracts, etc. (nb: does not include laws, which are LAW type)
 
 ### AML
