@@ -7,7 +7,7 @@
 
 ### ABS
 Abstract, non-tangible artifacts such as software (e.g., programs, tool kits, apps, e-mail), measureable intellectual property, contracts, etc. (nb: does not include laws, which are LAW type) 
-_[^back^](#Navigation)_
+<br>[^back^](#Navigation)
 
 ### AML
 Animal, a non-human living organism which feeds on organic matter, typically having specialized sense organs and a nervous system and able to respond rapidly to stimuli
