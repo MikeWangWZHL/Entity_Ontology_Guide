@@ -1,7 +1,31 @@
 # Kairos Entity Ontology
 
 ## Navigation
-[ABS(Abstraction)](#ABS) | [AML(Animal)](#AML) | [BAL(Ballot)](#BAL) | [COM(Commodity)](#COM) | [BOD(Body)](#BOD) | [FAC(Facility)](#FAC) | [GPE(Geopolitical Entity)](#GPE) | [INF(Information)](#INF) | [LAW(Law)](#LAW) | [LOC(Location)](#LOC) | [MHI(Medical Condition/Health Issue)](#MHI) | [MON(Money)](#MON) | [NAT(Nature)](#NAT) | [ORG(Organization)](#ORG) | [PER(Person)](#PER) | [PLA(Plants/Flora)](#PLA) | [PTH(Infectious Microorganism)](#PTH) | [RES(Result)](#RES) | [SEN(Sentence)](#SEN) | [SID(Side)](#SID) | [TTL(Title)](#TTL) | [VAL(Value)](#VAL) | [VEH(Vehicle)](#VEH) | [WEA(Weapon)](#WEA) | 
+- [ABS(Abstraction)](#ABS) 
+- [AML(Animal)](#AML) 
+- [BAL(Ballot)](#BAL) 
+- [COM(Commodity)](#COM) 
+- [BOD(Body)](#BOD) 
+- [FAC(Facility)](#FAC) 
+- [GPE(Geopolitical Entity)](#GPE) 
+- [INF(Information)](#INF) 
+- [LAW(Law)](#LAW) 
+- [LOC(Location)](#LOC) 
+- [MHI(Medical Condition/Health Issue)](#MHI) 
+- [MON(Money)](#MON) 
+- [NAT(Nature)](#NAT) 
+- [ORG(Organization)](#ORG) 
+- [PER(Person)](#PER) 
+- [PLA(Plants/Flora)](#PLA) 
+- [PTH(Infectious Microorganism)](#PTH) 
+- [RES(Result)](#RES) 
+- [SEN(Sentence)](#SEN) 
+- [SID(Side)](#SID) 
+- [TTL(Title)](#TTL) 
+- [VAL(Value)](#VAL) 
+- [VEH(Vehicle)](#VEH) 
+- [WEA(Weapon)](#WEA) 
+
 
 ## Definitions
 
